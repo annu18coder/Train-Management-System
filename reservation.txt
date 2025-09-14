@@ -1,0 +1,60 @@
+
+----------------------------------------------Reservation Confirmed! 
+
+----------------------------------------------
+Passenger Name: Miss Ananya
+Passenger Age: 20
+Passenger Gender: Female
+Train Name: Express A
+From Delhi to Mumbai
+Arrival Time: 21:09
+Destination Time: 08:30
+----------------------------------------------
+----------------------------------------------
+Reservation Confirmed! 
+
+----------------------------------------------
+		Passenger Name: Mr. Pramod Prasad
+		Passenger Age: 56
+		Passenger Gender: Female
+		Train Name: Express C
+		From Delhi to Patna
+		Arrival Time: 17:23
+		Destination Time: 12:22
+----------------------------------------------
+----------------------------------------------
+			 Reservation Confirmed! 
+
+----------------------------------------------
+		Passenger Name: Mr. Aditya Kumar
+		Passenger Age: 13
+		Passenger Gender: Male
+		Train Name: Express D
+		From Patna to Delhi
+		Arrival Time: 18:45
+		Destination Time: 08:34
+----------------------------------------------
+----------------------------------------------
+			 Reservation Confirmed! 
+
+----------------------------------------------
+		Passenger Name: Miss Ananya
+		Passenger Age: 20
+		Passenger Gender: Female
+		Train Name: Express E
+		From Chennai to New Delhi
+		Arrival Time: 20:23
+		Destination Time: 10:56
+----------------------------------------------
+----------------------------------------------
+			 Reservation Confirmed! 
+
+----------------------------------------------
+		Passenger Name: Miss Annu
+		Passenger Age: 20
+		Passenger Gender: Female
+		Train Name: Express C
+		From New Delhi to Patna
+		Arrival Time: 17:23
+		Destination Time: 12:22
+----------------------------------------------
