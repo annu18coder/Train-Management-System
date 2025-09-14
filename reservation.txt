@@ -1,5 +1,6 @@
 
-----------------------------------------------Reservation Confirmed! 
+----------------------------------------------
+Reservation Confirmed! 
 
 ----------------------------------------------
 Passenger Name: Miss Ananya
@@ -57,4 +58,5 @@ Reservation Confirmed!
 		From New Delhi to Patna
 		Arrival Time: 17:23
 		Destination Time: 12:22
+
 ----------------------------------------------
